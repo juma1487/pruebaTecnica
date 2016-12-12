@@ -1,0 +1,7 @@
+Hola buen día.
+
+Para ejecutar esta aplicación basta con copiar el contenido de la carpeta my-site a la 
+carpeta www de wampserver o htdocs de xampp y colocar en el navegador la 
+siguiente url: http://localhost/my-site/backend/
+
+Importante: para cambiar el archivo json asociado dar click en el icono data ubicado en la parte superior derecha.
